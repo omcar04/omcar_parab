@@ -21,9 +21,9 @@ const Contact = ({ contactRef }) => {
             <Col xs={0} lg={2}></Col>
             <Col className="text-center" xs={12} lg={8}>
               <p>
-                Interested in working together? We should queue up a chat. I’ll
-                buy the coffee. <br />
-                Or just wanna say hi, my inbox is always open.
+                Interested in working together? Let's chat. I’ll buy the coffee.
+                <br />
+                Or just say hi, my inbox is always open.
               </p>
               <Button className="sayhello" href="mailto:omcar04@gmail.com">
                 Say Hello 👋
@@ -35,7 +35,7 @@ const Contact = ({ contactRef }) => {
         <div
           className="text-center"
           style={{
-            backgroundColor: "#1c3c6b",
+            backgroundColor: "#183159",
             height: "200px",
             color: "#ffffff",
           }}

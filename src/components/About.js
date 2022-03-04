@@ -11,8 +11,8 @@ import {
   SiAdobexd,
   SiUnity,
 } from "react-icons/si";
-import ProgressBar from "react-bootstrap/ProgressBar";
-// import { GiGraduateCap, GiSuitcase, GiLaptop } from "react-icons/gi";
+// import ProgressBar from "react-bootstrap/ProgressBar";
+
 import pic from "../images/site-pic.png";
 
 const About = ({ aboutRef }) => {
