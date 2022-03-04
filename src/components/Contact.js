@@ -23,7 +23,7 @@ const Contact = ({ contactRef }) => {
               <p>
                 Interested in working together? Let's chat. I’ll buy the coffee.
                 <br />
-                Or just say hi, my inbox is always open.
+                Or just wanna say hi, my inbox is always open.
               </p>
               <Button className="sayhello" href="mailto:omcar04@gmail.com">
                 Say Hello 👋
