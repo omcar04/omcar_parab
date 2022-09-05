@@ -27,11 +27,11 @@ const About = ({ aboutRef }) => {
             <Col xs={0} lg={2}></Col>
             <Col xs={12} lg={4}>
               <p>
-                Hello, my name is Omkar. I'm a Software Engineer based in Navi
-                Mumbai, India. I enjoy building things that exist over the
-                internet. I develop web apps that are simple to use while still
-                providing excellent digital experiences. My interest in web
-                development began in 2014, and both I and technology have
+                Hello, my name is Omkar. I'm a Software Engineer based in
+                Gainesville, Florida. I enjoy building things that exist over
+                the internet. I develop web apps that are simple to use while
+                still providing excellent digital experiences. My interest in
+                web development began in 2014, and both I and technology have
                 progressed significantly since then. I also enjoy drawing,
                 painting, and creating designs. My passion for drawing and
                 designing spurred me towards UI/UX design. I'm interested in
@@ -57,6 +57,13 @@ const About = ({ aboutRef }) => {
                     EDUCATION <hr></hr>
                   </Card.Text>
                   <Card.Text>
+                    <b>University of FLorida, Gainesville*</b>
+                    <br />
+                    Master of Science - Computer Science
+                    <br />
+                    GPA
+                  </Card.Text>
+                  <Card.Text>
                     <b>
                       Fr. C. Rodrigues Institute of Technology - Mumbai
                       University
@@ -73,11 +80,8 @@ const About = ({ aboutRef }) => {
                     Higher Secondary Certificate
                     <br />
                     Percentage 81.69
-                  </Card.Text>
-                  <Card.Text>
-                    <b>Fr. Agnels Multipurpose School </b>
                     <br />
-                    Secondary and Senior Secondary Board Examination
+                    Secondary School Certificate
                     <br />
                     Percentage 90.69
                   </Card.Text>
