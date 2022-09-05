@@ -7,6 +7,7 @@ import {
   BsLinkedin,
   BsTwitter,
   BsGithub,
+  BsWhatsapp,
 } from "react-icons/bs";
 const Contact = ({ contactRef }) => {
   return (
@@ -77,6 +78,13 @@ const Contact = ({ contactRef }) => {
             >
               <BsLinkedin className="socials" />
             </a>
+            {/* <a
+              href="//api.whatsapp.com/send?phone=917977067961"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <BsWhatsapp className="socials" />
+            </a> */}
           </div>
 
           <span style={{ fontSize: "12px" }}>
