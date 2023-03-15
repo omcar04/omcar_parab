@@ -6,6 +6,7 @@ import walk from "../images/Pro3DW.png";
 import videoApp from "../images/ProVideoApp.png";
 import workX from "../images/ProWorkX.png";
 import more from "../images/more.png";
+import footytrends from "../images/ProFootyTrends.jpeg";
 function Slider(props) {
   return (
     <>
@@ -13,6 +14,20 @@ function Slider(props) {
         <Col xs={0} lg={2}></Col>
         <Col xs={12} lg={8}>
           <Carousel className="slider-col">
+            <Carousel.Item>
+              <img
+                className="d-block w-100 slide-img"
+                src={footytrends}
+                alt="Third slide"
+              />
+              <Carousel.Caption className="mt-2">
+                <h2>Footy Trends</h2>
+                <p>
+                  Football Trend Analysis App using React JS, Node JS and Oracle
+                  Database
+                </p>
+              </Carousel.Caption>
+            </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100 slide-img"
