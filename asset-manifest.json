@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/omcar_parab/static/css/main.08127512.css",
+    "main.js": "/omcar_parab/static/js/main.5d466d7d.js",
+    "static/media/ProWorkX.png": "/omcar_parab/static/media/ProWorkX.6b66db89fc811a882676.png",
+    "static/media/ProVideoApp.png": "/omcar_parab/static/media/ProVideoApp.a3914dbf9c05cf3d8b25.png",
+    "static/media/bg-image.jpg": "/omcar_parab/static/media/bg-image.fa582857ba76bd8498a4.jpg",
+    "static/media/Pro3DW.png": "/omcar_parab/static/media/Pro3DW.fffe00c32bd63c967974.png",
+    "static/media/more.png": "/omcar_parab/static/media/more.66efd4b622d4a518657b.png",
+    "static/media/ProFootyTrends.jpeg": "/omcar_parab/static/media/ProFootyTrends.69b6618b27754c8ff184.jpeg",
+    "static/media/ProClientPanel.png": "/omcar_parab/static/media/ProClientPanel.7b9ed4a989c7425379ba.png",
+    "static/media/ProChatApp.png": "/omcar_parab/static/media/ProChatApp.94b73256597d6d99d5a0.png",
+    "static/media/op-inverted.png": "/omcar_parab/static/media/op-inverted.e03025fe661fe95746c2.png",
+    "static/media/site-pic.png": "/omcar_parab/static/media/site-pic.f4cd10c0fea46c7153ef.png",
+    "static/media/op1.png": "/omcar_parab/static/media/op1.a1d6aa1efe1af7aa340e.png",
+    "index.html": "/omcar_parab/index.html",
+    "main.08127512.css.map": "/omcar_parab/static/css/main.08127512.css.map",
+    "main.5d466d7d.js.map": "/omcar_parab/static/js/main.5d466d7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08127512.css",
+    "static/js/main.5d466d7d.js"
+  ]
+}
