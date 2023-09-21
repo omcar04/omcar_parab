@@ -28,18 +28,22 @@ const About = ({ aboutRef }) => {
             <Col xs={12} lg={4}>
               <p>
                 Hello, my name is Omkar. I'm a Software Engineer based in
-                Gainesville, Florida. I enjoy building things that exist over
-                the internet. I develop web apps that are simple to use while
-                still providing excellent digital experiences. My interest in
-                web development began in 2014, and both I and technology have
-                progressed significantly since then. I also enjoy drawing,
-                painting, and creating designs. My passion for drawing and
-                designing spurred me towards UI/UX design. I'm interested in
-                crafting user-centric digital experiences that are tailored to
-                the needs of the customer. On this path, I'm fairly confident,
-                naturally curious, and constantly working to better my talents.
-                With each piece of code I write, I aspire to make the web a more
-                beautiful place.
+                Gainesville, Florida but more than that, I'm a creator who's
+                deeply passionate about shaping the online world into something
+                amazing. My journey in web development began back in 2014, and
+                I've seen both my skills and technology evolve dramatically
+                since then. What really fuels my drive is the art of crafting
+                web applications that are a breeze to use while delivering
+                exceptional digital experiences. Aside from my tech side, I have
+                a soft spot for drawing, painting, and all things design. These
+                passions naturally led me into the fascinating world of UI/UX
+                design. I'm interested in crafting user-centric digital
+                experiences that are tailored to the needs of the customer. On
+                this path, I'm fairly confident, naturally curious, and
+                constantly working to better my talents. Every line of code I
+                write is a step toward making the web a more beautiful and
+                user-friendly place. It's not just about the software; it's
+                about enhancing the human experience on the web.
               </p>
             </Col>
             <Col xs={12} lg={4}>
@@ -61,7 +65,7 @@ const About = ({ aboutRef }) => {
                     <br />
                     Master of Science - Computer Science
                     <br />
-                    GPA 3.77/4
+                    GPA 3.55/4
                   </Card.Text>
                   <Card.Text>
                     <b>
@@ -93,6 +97,11 @@ const About = ({ aboutRef }) => {
                 <Card.Body>
                   <Card.Text>
                     {/* <GiSuitcase className="icons" /> */}EXPERIENCE<hr></hr>
+                  </Card.Text>
+                  <Card.Text>
+                    <b>NBCUniversal - NBC Sports Next*</b>
+                    <br />
+                    Software Engineer Intern
                   </Card.Text>
                   <Card.Text>
                     <b>Jio Platforms Limited</b>
