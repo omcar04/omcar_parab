@@ -41,7 +41,7 @@ const Navigation = ({
               <Nav.Link onClick={executeScroll}>Projects</Nav.Link>
               <Nav.Link onClick={executeContactScroll}>Say Hello</Nav.Link>
               <Nav.Link
-                href="https://drive.google.com/file/d/1xTV8hiVIxYxyIwsWYcb00XvbGY3xEWGb/view?usp=sharing"
+                href="https://drive.google.com/file/d/1P54BQHXo5lxv_WCJajvhUIlLdr3s6VFy/view?usp=sharing"
                 target="_blank"
               >
                 Resume
