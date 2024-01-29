@@ -65,7 +65,7 @@ const About = ({ aboutRef }) => {
                     <br />
                     Master of Science - Computer Science
                     <br />
-                    GPA 3.55/4
+                    GPA 3.59/4
                   </Card.Text>
                   <Card.Text>
                     <b>
