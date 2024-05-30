@@ -61,11 +61,11 @@ const About = ({ aboutRef }) => {
                     EDUCATION <hr></hr>
                   </Card.Text>
                   <Card.Text>
-                    <b>University of FLorida, Gainesville*</b>
+                    <b>University of FLorida, Gainesville</b>
                     <br />
                     Master of Science - Computer Science
                     <br />
-                    GPA 3.59/4
+                    GPA 3.6/4
                   </Card.Text>
                   <Card.Text>
                     <b>
@@ -75,7 +75,7 @@ const About = ({ aboutRef }) => {
                     <br />
                     Bachelor of Engineering - Computer Engineering
                     <br />
-                    GPA 8.19/10
+                    GPA 8.2/10
                   </Card.Text>
 
                   <Card.Text>
@@ -99,7 +99,7 @@ const About = ({ aboutRef }) => {
                     {/* <GiSuitcase className="icons" /> */}EXPERIENCE<hr></hr>
                   </Card.Text>
                   <Card.Text>
-                    <b>NBCUniversal - NBC Sports Next*</b>
+                    <b>NBCUniversal - NBC Sports Next</b>
                     <br />
                     Software Engineer Intern
                   </Card.Text>
