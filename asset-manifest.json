@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/omcar_parab/static/css/main.08127512.css",
-    "main.js": "/omcar_parab/static/js/main.c8f4d44f.js",
+    "main.js": "/omcar_parab/static/js/main.b5dfc990.js",
     "static/media/ProWorkX.png": "/omcar_parab/static/media/ProWorkX.6b66db89fc811a882676.png",
     "static/media/ProVideoApp.png": "/omcar_parab/static/media/ProVideoApp.a3914dbf9c05cf3d8b25.png",
     "static/media/bg-image.jpg": "/omcar_parab/static/media/bg-image.fa582857ba76bd8498a4.jpg",
@@ -15,10 +15,10 @@
     "static/media/op1.png": "/omcar_parab/static/media/op1.a1d6aa1efe1af7aa340e.png",
     "index.html": "/omcar_parab/index.html",
     "main.08127512.css.map": "/omcar_parab/static/css/main.08127512.css.map",
-    "main.c8f4d44f.js.map": "/omcar_parab/static/js/main.c8f4d44f.js.map"
+    "main.b5dfc990.js.map": "/omcar_parab/static/js/main.b5dfc990.js.map"
   },
   "entrypoints": [
     "static/css/main.08127512.css",
-    "static/js/main.c8f4d44f.js"
+    "static/js/main.b5dfc990.js"
   ]
 }
