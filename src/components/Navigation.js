@@ -29,7 +29,7 @@ const Navigation = ({
               alt=""
               style={{ marginBottom: "5px" }}
             />{" "}
-            <b>Omkar Parab</b>/ Web Dev
+            <b>Omkar Parab</b>/ Front End Dev
           </Navbar.Brand>
           <Navbar.Toggle
             aria-controls="basic-navbar-nav"
@@ -41,7 +41,7 @@ const Navigation = ({
               <Nav.Link onClick={executeScroll}>Projects</Nav.Link>
               <Nav.Link onClick={executeContactScroll}>Say Hello</Nav.Link>
               <Nav.Link
-                href="https://drive.google.com/file/d/1Cfrecjic0ujV38H0bf126hjc3rX1XEtc/view?usp=sharing"
+                href="https://drive.google.com/file/d/1pPM7Kn9pOG___WkSgd5wdJsaT_X8Zv7W/view?usp=sharing"
                 target="_blank"
               >
                 Resume

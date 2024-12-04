@@ -18,7 +18,7 @@ const Typedtext = () => {
                 }}
                 onInit={(typewriter) => {
                   typewriter
-                    .typeString("WEB DEVELOPER")
+                    .typeString("FRONT END DEVELOPER")
                     .pauseFor(1000)
                     .deleteAll()
                     .typeString("SOFTWARE DEVELOPER")
@@ -28,7 +28,7 @@ const Typedtext = () => {
                     .typeString("UI/UX ENTHUSIAST")
                     .pauseFor(1000)
                     .deleteAll()
-                    .typeString("MSCS GRAD STUDENT")
+                    .typeString("MSCS GRAD")
                     .pauseFor(1000)
                     .deleteAll()
                     .typeString("HOMO SAPIEN SAPIEN")

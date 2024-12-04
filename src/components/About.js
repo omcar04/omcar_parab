@@ -28,8 +28,8 @@ const About = ({ aboutRef }) => {
             <Col xs={12} lg={4}>
               <p>
                 Hello, my name is Omkar. I'm a Software Engineer based in
-                Gainesville, Florida but more than that, I'm a creator who's
-                deeply passionate about shaping the online world into something
+                Austin, TX but more than that, I'm a creator who's deeply
+                passionate about shaping the online world into something
                 amazing. My journey in web development began back in 2014, and
                 I've seen both my skills and technology evolve dramatically
                 since then. What really fuels my drive is the art of crafting
