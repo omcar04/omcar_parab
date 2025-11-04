@@ -18,11 +18,10 @@ const Typedtext = () => {
                 }}
                 onInit={(typewriter) => {
                   typewriter
-                    .typeString("FRONT END DEVELOPER")
+                    .typeString("SOFTWARE DEVELOPER")
                     .pauseFor(1000)
                     .deleteAll()
-                    .typeString("SOFTWARE DEVELOPER")
-
+                    .typeString("FRONT END DEVELOPER")
                     .pauseFor(1000)
                     .deleteAll()
                     .typeString("UI/UX ENTHUSIAST")

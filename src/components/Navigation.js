@@ -29,7 +29,7 @@ const Navigation = ({
               alt=""
               style={{ marginBottom: "5px" }}
             />{" "}
-            <b>Omkar Parab</b>/ Front End Dev
+            <b>Omkar Parab</b>/ Software Dev
           </Navbar.Brand>
           <Navbar.Toggle
             aria-controls="basic-navbar-nav"

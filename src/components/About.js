@@ -27,23 +27,24 @@ const About = ({ aboutRef }) => {
             <Col xs={0} lg={2}></Col>
             <Col xs={12} lg={4}>
               <p>
-                Hello, my name is Omkar. I'm a Software Engineer based in
-                Austin, TX but more than that, I'm a creator who's deeply
-                passionate about shaping the online world into something
-                amazing. My journey in web development began back in 2014, and
-                I've seen both my skills and technology evolve dramatically
-                since then. What really fuels my drive is the art of crafting
-                web applications that are a breeze to use while delivering
-                exceptional digital experiences. Aside from my tech side, I have
-                a soft spot for drawing, painting, and all things design. These
-                passions naturally led me into the fascinating world of UI/UX
-                design. I'm interested in crafting user-centric digital
-                experiences that are tailored to the needs of the customer. On
-                this path, I'm fairly confident, naturally curious, and
-                constantly working to better my talents. Every line of code I
-                write is a step toward making the web a more beautiful and
-                user-friendly place. It's not just about the software; it's
-                about enhancing the human experience on the web.
+                Hey, I am Omkar — a Software Engineer, and a big fan of building
+                things that make the web more fun, useful, and beautiful. My dev
+                journey started back in 2014 when I made a website for my
+                football (soccer) team. That mix of design and code instantly
+                hooked me and I have been chasing that feeling ever since. I
+                have worked with companies like Reliance Jio, NBCUniversal, and
+                the University of Florida, where I built slick dashboards,
+                modernized legacy apps, and even tackled massive datasets to
+                predict esports earnings. Lately I have been exploring large
+                language models and AI, building tools like meeting assistants
+                and fine-tuning mini LLMs to make workflows smarter. Outside the
+                screen, I love to draw, paint, and design just about
+                anything—jerseys, logos, even pizza apps. I am big on UI/UX and
+                love turning ideas into interfaces people actually enjoy using.
+                Also, huge sports nerd here. At the end of the day, I am just
+                someone who loves solving problems, learning new things and
+                crafting cool stuff on the internet. Let’s make the web
+                better—one clever feature (and doodle) at a time.
               </p>
             </Col>
             <Col xs={12} lg={4}>
@@ -97,6 +98,11 @@ const About = ({ aboutRef }) => {
                 <Card.Body>
                   <Card.Text>
                     {/* <GiSuitcase className="icons" /> */}EXPERIENCE<hr></hr>
+                  </Card.Text>
+                  <Card.Text>
+                    <b>University of Florida</b>
+                    <br />
+                    Software Developer (Research)
                   </Card.Text>
                   <Card.Text>
                     <b>NBCUniversal - NBC Sports Next</b>
